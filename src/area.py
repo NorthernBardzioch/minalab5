@@ -1,7 +1,7 @@
 def calculate_area_square(length: int | float) -> int | float:
     """
     Function to calculate the area of a square
-    :param length: length of the square
+    :param length: length owdwawadwdadwaawdf the square
     :return: area of the square
     """
     if not isinstance(length, (int, float)) or length <= 1:
